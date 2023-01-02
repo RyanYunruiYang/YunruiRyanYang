@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YunruiRyanYang
 
-- 👀 You can check out some of the things I've written at https://arxiv.org/abs/2210.16181 (STIL a preprint because MILCOM2022 is slow) and https://dl.acm.org/doi/pdf/10.1145/3538401.3548550
+- 👀 You can check out some of the things I've written at https://arxiv.org/abs/2210.16181 (STILL a preprint because MILCOM2022 is slow) and https://dl.acm.org/doi/pdf/10.1145/3538401.3548550
 
 <!----
 - 👀 I’m interested in mathematics and computer science.
