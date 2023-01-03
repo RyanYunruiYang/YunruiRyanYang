@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YunruiRyanYang
 
-- 👀 You can check out some of the things I've written at https://arxiv.org/abs/2210.16181 (STILL a preprint because MILCOM2022 is slow) and https://dl.acm.org/doi/pdf/10.1145/3538401.3548550
+- 👀 I'm an applied mathematican with a background in [olympiad math](https://en.wikipedia.org/wiki/Mathematical_Olympiad_Program), and have lead projects on [optimization](https://arxiv.org/abs/2210.16181) and [networks](https://dl.acm.org/doi/pdf/10.1145/3538401.3548550)
 
 <!----
 - 👀 I’m interested in mathematics and computer science.
