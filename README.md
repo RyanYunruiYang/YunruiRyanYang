@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YunruiRyanYang
 
-- 👀 I'm an applied mathematican with a background in [olympiad math](https://en.wikipedia.org/wiki/Mathematical_Olympiad_Program), and have lead projects on [optimization](https://arxiv.org/abs/2210.16181) and [networks](https://dl.acm.org/doi/pdf/10.1145/3538401.3548550)
+- 👀 I'm an applied mathematican with a background in [olympiad math](https://en.wikipedia.org/wiki/Mathematical_Olympiad_Program), and have lead international projects on [optimization with the UK RAF](https://arxiv.org/abs/2210.16181) and [networks for CERN](https://dl.acm.org/doi/pdf/10.1145/3538401.3548550)
 
 <!----
 - 👀 I’m interested in mathematics and computer science.
